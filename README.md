@@ -2,6 +2,8 @@
 A CRM-powered application designed to streamline laptop rental services, enhance customer experiences, and boost operational efficiency. Key features include:
 
 
+
+
 **Intuitive Interface:** Simplifies laptop browsing and rental processes.
 
 **Automation:** Reduces manual effort with streamlined inventory and order management.
